@@ -65,6 +65,25 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </picture></a> &nbsp;
 </div>
 
+
+## ⚜️ Badges
+
+<div align="center">
+  
+#### My GitHub Stats
+
+
+<a href="https://github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+<a href="http://www.github.com/lakshyajain1508"><img margin-left="30px" src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lakshyajain1508's GitHub stats" /></a> <br/><br/>
+
+</div>
+
+<h1>
+🛠️ Contributions
+</h1>
+
+
+
 <h1>
    🌐 Social
 </h1>
@@ -95,20 +114,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </picture>
 </a> &nbsp;
 </div>
-
-## ⚜️ Badges
-
-<div align="center">
-  
-#### My GitHub Stats
-<a href="http://www.github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lakshyajain1508's GitHub stats" /></a> <br/><br/>
-<a href="https://github.com/lakshyajain1508" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/><br/>
-<a href="http://www.github.com/lakshyajain1508"><img src="https://streak-stats.demolab.com/?user=lakshyajain1508&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-
-</div>
-
-
 
 <h2>
 🎵 Music
