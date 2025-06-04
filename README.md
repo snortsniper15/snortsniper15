@@ -82,7 +82,11 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 🛠️ Contributions
 </h1>
 
-
+<div align="center">
+  
+![snake gif](https://github.com/snortsniper15/snortsniper15/blob/output/github-snake.svg)
+  
+</div>
 
 <h1>
    🌐 Social
