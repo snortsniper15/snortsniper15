@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
- <img src="https://www.emojiall.com/images/240/telegram/1f468-200d-1f4bb.gif" width="40">  Skills 
+ <img src="https://s4.ezgif.com/tmp/ezgif-46df100f3f1671.gif" width="40">  Skills 
 </h1>
 
 
