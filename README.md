@@ -65,9 +65,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </picture></a> &nbsp;
 </div>
 
-
-## ⚜️ Badges
-
+<h1>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo4NzNxNjF5djN2bXg4OGl3YWFsbnNhcmp2NHQ5MXhnMXh6b3hkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="35"> Badges
+</h1>
 <div align="center">
   
 #### My GitHub Stats
@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-🛠️ Contributions
+<img src="https://s4.ezgif.com/tmp/ezgif-4a1cfcf697feea.gif" width="60"> Contributions
 </h1>
 
 <div align="center">
@@ -120,7 +120,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h2>
-🎵 Music
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2U1c3IzZnhhMzZ6NDljM25qNGhhMzcxZzk1Yms2aGVmNnl1dmxsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yA1d0bznvsuzqp941U/giphy.gif" width="30"> Music
 </h2>
 <div align=center>
 <br/>
