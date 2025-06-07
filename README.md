@@ -1,5 +1,4 @@
-# Hi there, I'm Lakshya Jain <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVpcGxlM2toN2llY3U5cjd1azhndWVocHk3M2l4ZnMyN2xhb3BidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="31"> 
-
+# Hi there, I'm Lakshya Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
