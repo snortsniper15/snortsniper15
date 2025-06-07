@@ -1,9 +1,9 @@
-# Hi there, I'm Lakshya Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Lakshya Jain   <img src="https://s4.ezgif.com/tmp/ezgif-45dd61dc60aad2.gif" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
 <h1>
-  🚀 About Me
+<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width="30"> About Me
 </h1>
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
-  🤹 Skills
+ <img src="https://www.emojiall.com/images/240/telegram/1f468-200d-1f4bb.gif" width="40">  Skills 
 </h1>
 
 
