@@ -1,4 +1,4 @@
-# Hi there, I'm Lakshya Jain   <img src="https://s4.ezgif.com/tmp/ezgif-45dd61dc60aad2.gif" width="35">
+# Hi there, I'm Lakshya Jain   <img src="https://d3beq4llg5odue.cloudfront.net/d34mgf%2Fpreview%2F67906012%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394886&Signature=FgKCpH8mrqZo5ITrkplREzwvDyFvg~-wKIFdK9jbLGkCic4LF3~8aw3-klWoYoBQFZe6lYScGq23~92SWJESebVfT3cC1xwsQz2asCkkW-HQ6RYAErMOxsHbrp~uE-ZCBdMsjkCq~7XZQFDfkMrLlbM1Yn61X~Qj6465Di1CLFmFTOSwHXIUCQXUR2RKz4gcEYWtGC9HsfgYhpk5pI~Ud3j7Hdg0dU5CqzmQUcR3kA1dzY5glo0-TUA4QPtQ7tsDHu~vNPaBti1AMYG5R7KDO~G8B1uiv6S5Wwcw6GbhWOOThXeL2~pRz1YOF6UiLj-gK4V5stkWwuwEdrUXgLggkw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
- <img src="https://s4.ezgif.com/tmp/ezgif-46df100f3f1671.gif" width="40">  Skills 
+ <img src="https://d2tcgf3zx24xll.cloudfront.net/s8wkgf%2Fpreview%2F67905968%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394807&Signature=eEgJJQp54zK89JruTXANG775GKsX3OOiokA3y9ufZyUW5NLee6yrbv5OON~zXUbseeOCLSJWHKxbIF2K9BB4WcpYIMGvf6A4CNWn2-rLsfEBke1zJV~8H4C7EiSBdW4~PifTdw3Cslp64oc5Q~9PFI8Zhik-eyPkl9enkW~B~gMu~F0o23efXwUWOOYe6DBfw7U~oc8sXEkm4~2RLas34TdptHyOyF9D5t1douE6T6288FsUIrv5g-cEnJ5pE-e3pPDLurNdeEfqpAfTFtILxpUuIu7L8wASvjzX6OFVo-W6qXSRgmJZf53qzb8ejfKE9uYBtb5TFVSUUxKQCXE3-Q__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40">  Skills 
 </h1>
 
 
@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://s4.ezgif.com/tmp/ezgif-4a1cfcf697feea.gif" width="60"> Contributions
+<img src="https://d1qde0807mi10y.cloudfront.net/s2imgf%2Fpreview%2F67906026%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394970&Signature=fVxHTZV3yAppqXN4ksk5z6wIR6w~VsPaGLTqP0N1S~RjpJwvcAp3FH2BulzJEsQUojgMFcioTkCMbs8ZyIuf~FeT7Ybeapv31yLhl1zneBpWwNE2AGsYzXAehfH~JwJfgXnSFahKTwPJEPL58elCFPjEMq5qyUa8Aoi~CgxdEzHynYp1xcQeiJ2W6ZEuhr043TH5q~yXDhFIeuBRQn2D3xB6E-WhFpnzw2yJ~bsbD6uxTIHLtCA7W05Rgo11fDLeGNeJUaovJDjhaxyRcwR1KAWcUJMLxPc0oHj7jAEIrGpD~r2wLeh8QSE9Zfq7ARWQQ~QUDEhCmTnDG9BR7K7wng__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="60"> Contributions
 </h1>
 
 <div align="center">
