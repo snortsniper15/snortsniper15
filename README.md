@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://d1qxrac4t1asb.cloudfront.net/g983if%2Fpreview%2F67907924%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749401945&Signature=I4C3AledigXqb3iPZzZIuHwI5h38DCT6RuR4LW4BHoHvKyfEJNN42JQp1qtXaBpnPup0Wqjxwiw0ubskTuOTEuGC1XSxSgtMEAGltsFnXYOISkm9Q8f5I4Vi9K~9SYlp-IaUKZpcd48ASdxrBQuw9Q5wT3ecgdE5jos0qtEwCL6U2bnTvYJg8IUWuCPowFkQeGQ2DH6zMoknC~LdPGo-clYsCRWe8Hxd19VlDULFYUejlR1B9Jz9W~B4~Bdv3gE67LntJfFtXCCVF2rw9y1nbJ3jvqcORVGU71m1iTR1wtC1CKPOwZPoUoaRJou~Dq4qtrh182jIYAQoJ3z4lPtNZA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="30"> Social
+<img src="https://d1qxrac4t1asb.cloudfront.net/g983if%2Fpreview%2F67907924%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749401945&Signature=I4C3AledigXqb3iPZzZIuHwI5h38DCT6RuR4LW4BHoHvKyfEJNN42JQp1qtXaBpnPup0Wqjxwiw0ubskTuOTEuGC1XSxSgtMEAGltsFnXYOISkm9Q8f5I4Vi9K~9SYlp-IaUKZpcd48ASdxrBQuw9Q5wT3ecgdE5jos0qtEwCL6U2bnTvYJg8IUWuCPowFkQeGQ2DH6zMoknC~LdPGo-clYsCRWe8Hxd19VlDULFYUejlR1B9Jz9W~B4~Bdv3gE67LntJfFtXCCVF2rw9y1nbJ3jvqcORVGU71m1iTR1wtC1CKPOwZPoUoaRJou~Dq4qtrh182jIYAQoJ3z4lPtNZA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35"> Social
 </h1>
 
 <div align="center">
