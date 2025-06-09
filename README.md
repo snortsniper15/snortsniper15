@@ -1,4 +1,4 @@
-# Hi there, I'm Lakshya Jain   <img src="https://d3beq4llg5odue.cloudfront.net/d34mgf%2Fpreview%2F67906012%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394886&Signature=FgKCpH8mrqZo5ITrkplREzwvDyFvg~-wKIFdK9jbLGkCic4LF3~8aw3-klWoYoBQFZe6lYScGq23~92SWJESebVfT3cC1xwsQz2asCkkW-HQ6RYAErMOxsHbrp~uE-ZCBdMsjkCq~7XZQFDfkMrLlbM1Yn61X~Qj6465Di1CLFmFTOSwHXIUCQXUR2RKz4gcEYWtGC9HsfgYhpk5pI~Ud3j7Hdg0dU5CqzmQUcR3kA1dzY5glo0-TUA4QPtQ7tsDHu~vNPaBti1AMYG5R7KDO~G8B1uiv6S5Wwcw6GbhWOOThXeL2~pRz1YOF6UiLj-gK4V5stkWwuwEdrUXgLggkw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35">
+# Hi there, I'm Lakshya Jain   <img src="https://d3beq4llg5odue.cloudfront.net/d34mgf%2Fpreview%2F67906012%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749463168&Signature=UAF-dqwuf5e93zJ6Mdp9ooRTwxE5xPkP0jqzoXXO-IJkdm~yXTk-R-sTbg0raqnjf7bdz1CKga~PY1dhmnMbnP3QmXaNxqMA14N1WjKL2xA~QDex23nQu25TeUgjMffa54vFoSz771bc7z519Vx8S7GVi4DDPvQV3cWQBGobDz1~y32~PV1OltARtFQ~Ij18shPAGXnT10wiP3cHGAd9Sf8lIV4WGYmWegTxGo5d21oZbcT8GFHilZi8j2nGD8qZqgQyY4hkSR3Ow244gACyd9hsAjVFeK2giLePIhwDIXl9StbS9VBgqwv4fF0nROhiSK8L9~86vqh1yA4WepixDg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
- <img src="https://d2tcgf3zx24xll.cloudfront.net/s8wkgf%2Fpreview%2F67905968%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394807&Signature=eEgJJQp54zK89JruTXANG775GKsX3OOiokA3y9ufZyUW5NLee6yrbv5OON~zXUbseeOCLSJWHKxbIF2K9BB4WcpYIMGvf6A4CNWn2-rLsfEBke1zJV~8H4C7EiSBdW4~PifTdw3Cslp64oc5Q~9PFI8Zhik-eyPkl9enkW~B~gMu~F0o23efXwUWOOYe6DBfw7U~oc8sXEkm4~2RLas34TdptHyOyF9D5t1douE6T6288FsUIrv5g-cEnJ5pE-e3pPDLurNdeEfqpAfTFtILxpUuIu7L8wASvjzX6OFVo-W6qXSRgmJZf53qzb8ejfKE9uYBtb5TFVSUUxKQCXE3-Q__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40">  Skills 
+ <img src="https://d2tcgf3zx24xll.cloudfront.net/s8wkgf%2Fpreview%2F67905968%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749463217&Signature=Nd~h5eYGeIw41oeJiP3oHbsLTmQWBC6mUTdvLnP51SaGhxcIW05L5xM7XHspmJAzQFjLHYuv~Idfl9EaRp9mFXH~LCw9MAiFpFXfEXHDAgppk5TrZOdKZ17SwwXXhvfMxRxVbYaiN3y8dZUQejQyRtXsYG0UXYawg~EJgyXaJ2lZDoYeRjk6DKvRGwM7tX78q3C~8-JKKnJygDj1EGoXXs~f4EaSTiC3iA21U7gI9a~xKhmuzCMjcz0DNzZ5Rt3Vd3ssR8dkK6bYtKdPw3QCd2-rR11F9lc2VWM5Ml-eEOhDoPMmLwVVRc~tfXTUguonREFl0dhGQKQoPLOK8tc-LQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40">  Skills 
 </h1>
 
 
@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://d1qde0807mi10y.cloudfront.net/s2imgf%2Fpreview%2F67906026%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749394970&Signature=fVxHTZV3yAppqXN4ksk5z6wIR6w~VsPaGLTqP0N1S~RjpJwvcAp3FH2BulzJEsQUojgMFcioTkCMbs8ZyIuf~FeT7Ybeapv31yLhl1zneBpWwNE2AGsYzXAehfH~JwJfgXnSFahKTwPJEPL58elCFPjEMq5qyUa8Aoi~CgxdEzHynYp1xcQeiJ2W6ZEuhr043TH5q~yXDhFIeuBRQn2D3xB6E-WhFpnzw2yJ~bsbD6uxTIHLtCA7W05Rgo11fDLeGNeJUaovJDjhaxyRcwR1KAWcUJMLxPc0oHj7jAEIrGpD~r2wLeh8QSE9Zfq7ARWQQ~QUDEhCmTnDG9BR7K7wng__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="60"> Contributions
+<img src="https://d1qde0807mi10y.cloudfront.net/s2imgf%2Fpreview%2F67906026%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749463323&Signature=YZIY4VsyYNnzcpsJ-1g0NYS1B-hk-W45NB6qQw9IObPWQGcebnLQi~4wShuGg90jaLgiphHuExJJv-kRgOzGKk4CksCMN0rR~ApN5lzSeWWUA12Qubg8mADrGbHQXjluk4NnoZWO-Lbz4XwUxyTsQqdTCRij-e~v4UHZWZgQ4CSU9NVjG~-n4GQNEFehOJ~QdjBY2cVcBp95xKAnNRQjSEdeam4KhUw77q8SNliK4Io8IF8etBqvnWnOF76iAu632GuxjLCV~~mmbNG9kX~XdCc5-cq6Hx0HmIUW8cQt5s8TQ-qI3TaQGfS5hamuhK-fV45xmKh0HfVTWkULL8RaAQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="60"> Contributions
 </h1>
 
 <div align="center">
@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://d1qxrac4t1asb.cloudfront.net/g983if%2Fpreview%2F67907924%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749401945&Signature=I4C3AledigXqb3iPZzZIuHwI5h38DCT6RuR4LW4BHoHvKyfEJNN42JQp1qtXaBpnPup0Wqjxwiw0ubskTuOTEuGC1XSxSgtMEAGltsFnXYOISkm9Q8f5I4Vi9K~9SYlp-IaUKZpcd48ASdxrBQuw9Q5wT3ecgdE5jos0qtEwCL6U2bnTvYJg8IUWuCPowFkQeGQ2DH6zMoknC~LdPGo-clYsCRWe8Hxd19VlDULFYUejlR1B9Jz9W~B4~Bdv3gE67LntJfFtXCCVF2rw9y1nbJ3jvqcORVGU71m1iTR1wtC1CKPOwZPoUoaRJou~Dq4qtrh182jIYAQoJ3z4lPtNZA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35"> Social
+<img src="https://d1qxrac4t1asb.cloudfront.net/g983if%2Fpreview%2F67907924%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749463386&Signature=HBrbC7gFdseLQwCuysrDs46XkdGps9zJrLscnIaNJJg7TB6RgdbrPStqa~~Q3YASQEg5SIUPxhqYa7R3Y6xbQ3ZxP6qGNGWNMv8mkoPVyF0OSb18ffpkKIBPBx~x5q6fHn3pEzcILIU1Z43udq~uqtJ1HvfGXxiIqkyPHtF4XHsZQ5Hxs3kLIYF5SgtfvR2V55U44q-X5RB48Mlf91tt5QnbewX2Vuu0F8K8~UwtBX7vYb5iggOvfQUEUuArppGadkG~9dFCqiA6~shCBnG-qnmKIeTuT8c78ItPAaGCAtAVE-N6zuZd9Bx-Wy9vKaPXlZosi3-LyDXCdwAI4aaB5A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35"> Social
 </h1>
 
 <div align="center">
@@ -118,7 +118,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://d168ijdb11kbqj.cloudfront.net/c984if%2Fpreview%2F67907960%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749402177&Signature=e9DYiaBohpSfUtOiixI46uWPhrRGhHjY5CuBpDAOc~UYSzBs6TwEBsPDcOErCq7BGtbuWANWm89XRzvuX82kt4UWASFbYWGwH5ndKkNQke-rSZlhzkJ-wcWFEb0pjWHTaw3S4iPsCnsbPEBeQXd3~wjtOzy2mmsSEkxw4xa~~YR5Zmojhwlge5djBwYDEXSsGkRr1pWy1JWlpJOkrS8PIoTLfCcS61aaFXPR8PVs4SIjV8D3SprqbsGzIl6YY-MyTh6SlZw46IUtK~A7TC~Dwkt84Qgi4~~5wLK4sYxG-D2qt2qclS0rd6r8nnH8KiypjLo60y2DHt5GRttCtNVnog__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40"> Music
+<img src="https://d168ijdb11kbqj.cloudfront.net/c984if%2Fpreview%2F67907960%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749463420&Signature=VrwVyAK3RyzCQ3PTdNswiEfwX5hDAlxLkVvqnxEyRhciivebBkoxRHGCItzp-~EeEr-7VK2dUe2OHyU1mg0POXh3ykzCa3rOx~aHoOoXqaQQNkLQxXDLWCRRW5rxDVRXnSW8t5H3rEySkyQfLB7rGpN22T3XKnN8OW17X7II9DjXbVTwpCmY8X2Nro8W2m9qKAWHTy~7YlGzfBmigdlJPFo7~gyH0bjOY-bdV4xzZjxCVkkXAkQqlosyv96ZnUArP89MYjbXPIbvl1JYGakvGsS19k2xmXAEpjF-HzpBi0ssZoEpBe1NaYpcDmu~R9O1-OLwkiYv2A3tBIJuYD9c~A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40"> Music
 </h1>
 <div align=center>
 <br/>
