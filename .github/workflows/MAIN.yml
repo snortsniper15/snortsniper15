@@ -16,9 +16,12 @@ jobs:
 
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: lakshyajain1508
-          outputs: dist/github-snake.svg
+       with:
+        github_user_name: lakshyajain1508
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake.gif
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
