@@ -1,4 +1,4 @@
-# Hi there, I'm Lakshya Jain   <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/attitude.gif" width="35">
+# Hi, I'm Lakshya Jain   <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/attitude.gif" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
