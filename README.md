@@ -1,7 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%">
+
 # Hi, I'm Lakshya Jain   <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/attitude.gif" width="35">
 This is my Second Profile. <br>
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
-
+<br>
+<p align="side">
+  <img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+</p>
 <h1>
 <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/rocket_1f680.gif" width="30"> About Me
 </h1>
@@ -71,11 +76,23 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 <div align="center">
   
 #### My GitHub Stats
-
-<img src="https://github-readme-stats-eta-ten-57.vercel.app/api/top-langs/?username=snortsniper15&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="TopLanguages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajain1508&custom_title=lakshyajain1508's%20GitHub%20Activity%20Graph&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="GitHub Activity Graph" />
 <br>
-<a href="http://www.github.com/snortsniper15"><img src="https://github-readme-stats.vercel.app/api/?username=snortsniper15&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lakshyajain1508's GitHub stats" /></a> <br/><br/>
+<table>
+  <tr>
+   <td>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=lakshyajain1508&theme=dark&hide_border=true" />
+   </td>
+    <td>
+      <img src="https://github-readme-stats-eta-ten-57.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="TopLanguages" />
+    </td>
+    <td>
+     <a href="http://www.github.com/snortsniper15"><img src="https://github-readme-stats.vercel.app/api/?username=snortsniper15&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lakshyajain1508's GitHub stats" /></a> <br/><br/>
+    </td>
+   <img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=true&alt=%22lakshyajain1508%27s%20GitHub%20stats" />
 
+  </tr>
+</table>
 </div>
 
 <h1>
