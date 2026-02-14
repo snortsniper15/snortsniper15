@@ -1,7 +1,43 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=%24+Initializing+Lakshya+Jain+Profile...;%24+Loading+Projects...;%24+Building+AI+and+Web+Solutions...;%24+Welcome+to+my+GitHub+Terminal" />
 </p>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2000&pause=500&color=39FF14&background=000000&center=true&vCenter=true&width=900&height=60&lines=Wake+up+Lakshya...;The+Matrix+has+you...;Follow+the+white+rabbit...;Welcome+Developer."/>
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%">
+
+<h1 align="center">📡 Activity Radar</h1>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyajain1508&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-CODING%20NOW-39FF14?style=for-the-badge&logo=github"/>
+
+</div>
+
+--- 
+
+## 🤖 AI Developer Badge Panel
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Developer-Active-00ff99?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/C++-Problem%20Solver-00599C?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Web%20Developer-Full%20Stack-orange?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/AI%20Projects-Building-purple?style=for-the-badge&logo=tensorflow" />
+
+</p>
 
 # Hi, I'm Lakshya Jain   <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/attitude.gif" width="35">
 This is my Second Profile. <br>
