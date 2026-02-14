@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=%24+Initializing+Lakshya+Jain+Profile...;%24+Loading+Projects...;%24+Building+AI+and+Web+Solutions...;%24+Welcome+to+my+GitHub+Terminal" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" width="100%">
 
 # Hi, I'm Lakshya Jain   <img src="https://github.com/snortsniper15/snortsniper15/blob/main/gif/attitude.gif" width="35">
