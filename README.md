@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <div align="center">
   
-![snake gif](https://github.com/snortsniper15/snortsniper15/blob/output/github-snake.svg)
+![space-shooter gif](https://github.com/snortsniper15/snortsniper15/blob/main/assets/space-shooter.gif)
   
 </div>
 
